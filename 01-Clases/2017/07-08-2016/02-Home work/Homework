@@ -1,0 +1,50 @@
+
+
+Homework assignments
+please write your answer in the back of this page or add additional pages.
+-------------------------------------------------------------------------------
+
+01- how did you write comments in javascript?
+
+02- what are the data types in javascript? 
+
+03- what is a variable?
+
+04- what is variable scope?
+
+05- what are reserved words? (give 3 examples)
+
+06- what is an operator?
+
+07- write six examples in how to use six different arithmetic operators. 
+
+08- Write five examples of how to use five different comparison operators. 
+
+09- write two examples in how to use two different logical operators. 
+
+10 - Given the following code:
+
+var a = "Hello";
+var b = 7;
+
+var c = a + b;
+
+what is the value of c:
+
+
+
+
+11 - Given the following code:
+
+var a = "Global";
+var b = 16;
+
+var c = a * b;
+
+what is the value of c:
+
+
+
+
+-------------------------------------------------------------------------------
+
